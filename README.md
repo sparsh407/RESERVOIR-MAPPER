@@ -12,4 +12,4 @@
 •	Note on Large Data Extraction: To access the water spread time-series for longer time periods (e.g., several years), go to the Tasks panel of the Google Earth Engine code editor and Export the CSV output to your Google Drive. This method bypasses the "Capacity Exceeded" or "Computation Timed Out" warnings associated with on-the-fly console printing.
 
 **Acknowledgments**
-The authors gratefully acknowledge the European Space Agency (ESA) for providing open-access Sentinel-1 and Sentinel-2 satellite data and the U.S. Geological Survey (USGS) for the Shuttle Radar Topography Mission (SRTM) elevation dataset. All datasets were accessed and processed via the Google Earth Engine platform. 
+The authors gratefully acknowledge the European Space Agency (ESA) for providing open-access Sentinel-1 and Sentinel-2 satellite data and the U.S. Geological Survey (USGS) for the Shuttle Radar Topography Mission (SRTM) elevation dataset. All datasets were accessed and processed via the Google Earth Engine platform.
