@@ -8,7 +8,7 @@
 
 
 **Implementation Instructions**
-•	Setup: Paste the "Reservoir_Mapper" code into the Google Earth Engine Code Editor and Run it.
+•	Setup: Paste the "Reservoir_Mapper" code into the Google Earth Engine Code Editor, Input the lake geometry using a buffered boundary to ensure the area covers the maximum potential water spread and seasonal fluctuations. and Run it.
 •	Note on Large Data Extraction: To access the water spread time-series for longer time periods (e.g., several years), go to the Tasks panel of the Google Earth Engine code editor and Export the CSV output to your Google Drive. This method bypasses the "Capacity Exceeded" or "Computation Timed Out" warnings associated with on-the-fly console printing.
 
 **Acknowledgments**
