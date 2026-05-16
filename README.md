@@ -1,9 +1,10 @@
 # Remote sEnsing based multi-sensor Spatio-tEmporal fusion aided ReserVOIR MAPPing framEwoRk (RESERVOIR MAPPER)
 
 ## Framework Overview
-* **Core Objective:** This framework can be used across diverse climatic and geographic regions worldwide to generate dense and temporally continuous reservoir water spread time-series.
-* **Sensor Integration:** Integrates high-resolution optical (Sentinel-2) and Synthetic Aperture Radar (Sentinel-1) datasets to overcome the limitations of cloud cover.
-* **Advanced Fusion:** Utilizes spatial fusion techniques where cloud-contaminated optical pixels are replaced by data from the temporally nearest SAR water scene.
+* **Scope & Objective:** This framework can be used across diverse climatic and geographic regions worldwide to generate dense and temporally continuous reservoir water spread time-series.
+* **Multi-Sensor Fusion Strategy:** Integrates high-resolution optical (Sentinel-2) and Synthetic Aperture Radar (Sentinel-1) datasets to overcome cloud cover limitations by replacing cloud-contaminated optical pixels with data from the temporally nearest SAR water scene.
+* **Multi-Sensor Fusion Strategy:** Integrates high-resolution optical (Sentinel-2) and Synthetic Aperture Radar (Sentinel-1) datasets to overcome the limitations of cloud cover.
+      *  Utilizes spatial fusion techniques where cloud-contaminated optical pixels are replaced by data from the temporally nearest SAR water scene.
 * **Platform:** Built entirely on the Google Earth Engine (GEE) platform, leveraging its high-performance cloud computing and extensive data catalog.
 * **Details:** For more details regarding the methodology, please refer to the paper "Remote sEnsing based multi-sensor Spatio-tEmporal fusion aided ReserVOIR MAPPing framEwoRk (RESERVOIR MAPPER)" by Shekhar and Ramsankaran (2026).
 
@@ -26,4 +27,4 @@
 
 ---
 
-**Credits:** Developed by the Hydro-Remote Sensing Applications (H-RSA) Group, led by Dr. RAAJ Ramsankaran at the Department of Civil Engineering, IIT Bombay.
+**Credits:** Developed by the Hydro-Remote Sensing Applications (H-RSA) Group at the Department of Civil Engineering, IIT Bombay.
