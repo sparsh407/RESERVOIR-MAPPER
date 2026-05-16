@@ -6,7 +6,7 @@
 * **Multi-Sensor Fusion Strategy:** Integrates high-resolution optical (Sentinel-2) and Synthetic Aperture Radar (Sentinel-1) datasets to overcome the limitations of cloud cover.
       *  Utilizes spatial fusion techniques where cloud-contaminated optical pixels are replaced by data from the temporally nearest SAR water scene.
 * **Platform:** Built entirely on the Google Earth Engine (GEE) platform, leveraging its high-performance cloud computing and extensive data catalog.
-* **Details:** For more details regarding the methodology, please refer to the paper "Remote sEnsing based multi-sensor Spatio-tEmporal fusion aided ReserVOIR MAPPing framEwoRk (RESERVOIR MAPPER)" by Shekhar and Ramsankaran (2026) [DOI: 10.1016/j.rsase.2026.102054](https://doi.org/10.1016/j.rsase.2026.102054).
+* **Reference:** For more details refer our article titled "Remote sEnsing based multi-sensor Spatio-tEmporal fusion aided ReserVOIR MAPPing framEwoRk (RESERVOIR MAPPER)" by Shekhar and Ramsankaran (2026) Remote Sens. Appl. Soc. Environ. [DOI: 10.1016/j.rsase.2026.102054).
 
 ---
 
@@ -27,4 +27,4 @@
 
 ---
 
-**Credits:** Developed by the Hydro-Remote Sensing Applications (H-RSA) Group at the Department of Civil Engineering, IIT Bombay.
+**Credits:** Developed by Sparsh Shekar, research scholar from the Hydro-Remote Sensing Applications (H-RSA) Group, Department of Civil Engineering, Indian Institute of Technology (IIT) Bombay, Mumbai
