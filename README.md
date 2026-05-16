@@ -16,8 +16,8 @@
     * **Option A (Manual Digitization):** Use the GEE drawing tools to create a new polygon layer around the reservoir directly on the map.
     * **Option B (Shapefile Import):** Go to the GEE 'Assets' tab, click 'New' > 'Shape files', upload your zipped shapefile component files (.shp, .shx, .dbf, .prj), and import it into your script.
 * **Execution:** Run the code within the GEE platform.
-* **Note on Large Data Extraction:** To access the water spread time-series for longer time periods (e.g., several years), go to the Tasks panel of the Google Earth Engine code editor.
-* **Data Export:** Export the CSV output to your Google Drive.
+* **Note on Large Data Extraction:**
+* **Data Export:**  To access the water spread time-series for longer time periods (e.g., several years), Export the CSV output to your Google Drive.
     * **Steps:** Locate the 'Tasks' tab, click the 'Run' button next to the task, configure your preferred Drive folder path in the popup window, and click 'Run' again to begin the background export.
     * **Note:** This method bypasses the "Capacity Exceeded" or "Computation Timed Out" warnings associated with on-the-fly console printing.
 
