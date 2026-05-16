@@ -19,7 +19,7 @@
 * **Note on Large Data Extraction:**
 * **Data Export:**  To access the water spread time-series for longer time periods (e.g., several years), Export the CSV output to your Google Drive.
     * **Steps:** Locate the 'Tasks' tab, click the 'Run' button next to the task, configure your preferred Drive folder path in the popup window, and click 'Run' again to begin the background export.
-    * **Note:** This method bypasses the "Capacity Exceeded" or "Computation Timed Out" warnings associated with on-the-fly console printing.
+    * **Note:** This method bypasses the "Capacity Exceeded" or "Computation Timed Out" warnings during processing on GEE.
 
 ---
 
