@@ -2,7 +2,6 @@
 
 ## Framework Overview
 * **Scope & Objective:** This framework can be used across diverse climatic and geographic regions worldwide to generate dense and temporally continuous reservoir water spread time-series.
-* **Multi-Sensor Fusion Strategy:** Integrates high-resolution optical (Sentinel-2) and Synthetic Aperture Radar (Sentinel-1) datasets to overcome cloud cover limitations by replacing cloud-contaminated optical pixels with data from the temporally nearest SAR water scene.
 * **Multi-Sensor Fusion Strategy:** Integrates high-resolution optical (Sentinel-2) and Synthetic Aperture Radar (Sentinel-1) datasets to overcome the limitations of cloud cover.
       *  Utilizes spatial fusion techniques where cloud-contaminated optical pixels are replaced by data from the temporally nearest SAR water scene.
 * **Platform:** Built entirely on the Google Earth Engine (GEE) platform, leveraging its high-performance cloud computing and extensive data catalog.
